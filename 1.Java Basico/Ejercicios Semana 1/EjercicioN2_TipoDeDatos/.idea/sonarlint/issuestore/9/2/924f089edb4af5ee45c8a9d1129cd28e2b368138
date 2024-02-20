@@ -1,0 +1,21 @@
+
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™¬À8õ‰ë°Ü1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼È«Î8ç‘ñ°Ü1
+7
+java:S1220""Move this file to a named package.8÷‰ë°Ü1
+X
+java:S1854";Remove this useless assignment to local variable "nombre2".(õî…8á¶ì°Ü1
+Y
+java:S1854"<Remove this useless assignment to local variable "ItsTrue2".(¼È«Î8ï‘ñ°Ü1
+W
+java:S1854";Remove this useless assignment to local variable "numero2".(¥ñü/8ï‘ñ°Ü1
+L	java:S106"+Replace this use of System.out by a logger.(ßÊ¹¼ùÿÿÿÿ8€Šë°Ü1
+H
+java:S1481",Remove this unused "numero2" local variable.(¥ñü/8ñ‘ñ°Ü1
+O
+java:S1481"-Remove this unused "decimal2" local variable.(Ûáèöıÿÿÿÿ8ò‘ñ°Ü1
+J
+java:S1481"-Remove this unused "ItsTrue2" local variable.(¼È«Î8ò‘ñ°Ü1
+I
+java:S1481",Remove this unused "nombre2" local variable.(õî…8æ¶ì°Ü1
+L	java:S106"+Replace this use of System.out by a logger.(ßÊ¹¼ùÿÿÿÿ8ƒŠë°Ü1
