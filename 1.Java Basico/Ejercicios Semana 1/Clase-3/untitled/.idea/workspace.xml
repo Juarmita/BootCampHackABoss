@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d272624-2d2d-4ed1-8068-5c96de62177c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a4a88c58-b3ac-4780-9143-c463e1f530e6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Clase-2/EjercicioN4_Matrices/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Clase-2/EjercicioN4_Matrices/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,16 +13,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
+  "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="2cfn1XKFtLctvYDfYbyyM3T23zt" />
+  <component name="ProjectId" id="2cgYex9d5To2zzccZjha33KoSLX" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -42,11 +38,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8d272624-2d2d-4ed1-8068-5c96de62177c" name="Changes" comment="" />
-      <created>1708511289991</created>
+      <changelist id="a4a88c58-b3ac-4780-9143-c463e1f530e6" name="Changes" comment="" />
+      <created>1708534789284</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1708511289991</updated>
+      <updated>1708534789284</updated>
     </task>
     <servers />
   </component>
