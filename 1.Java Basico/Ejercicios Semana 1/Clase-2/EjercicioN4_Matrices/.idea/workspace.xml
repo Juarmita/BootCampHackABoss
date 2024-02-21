@@ -4,13 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73fb400c-36e3-46a8-8f69-95db24f4eb46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../EjercicioN4_Matrices/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjercicioN4_Matrices/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjercicioN4_Matrices/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjercicioN4_Matrices/.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjercicioN4_Matrices/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../EjercicioN4_Matrices/src/Main.java" afterDir="false" />
+    <list default="true" id="8d272624-2d2d-4ed1-8068-5c96de62177c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EjercicioN3_ArreglosVectores/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EjercicioN3_ArreglosVectores/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,25 +22,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
+  "associatedIndex": 5
 }]]></component>
-  <component name="ProjectId" id="2cfWr8nb51DVNwDqB4X90gEyzEq" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2cfn1XKFtLctvYDfYbyyM3T23zt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/juanm/Desktop/Clases BootCamp HackABoss/Clase-2"
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -52,15 +48,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="73fb400c-36e3-46a8-8f69-95db24f4eb46" name="Changes" comment="" />
-      <created>1708503311359</created>
+      <changelist id="8d272624-2d2d-4ed1-8068-5c96de62177c" name="Changes" comment="" />
+      <created>1708511289991</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1708503311359</updated>
+      <updated>1708511289991</updated>
     </task>
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
