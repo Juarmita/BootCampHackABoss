@@ -29,13 +29,19 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         //Declaramos la matriz 5x5
-        int[][] asientos = new int[5][5];
+        char[][] asientos = new char[5][5];
+        //Declarlo variables
+        int fila, asiento, opcion;
+
         //Todos los asientos libres
-        for (int fila = 0; fila < 5; fila++) {
-            for (int asiento = 0; asiento < 5; asiento++) {
-                asientos[fila][asiento] = 'O';
+        for (int f = 0; f < asientos.length; f++) {
+            for (int a = 0; a < asientos[0].length; a++) {//Usamos asientos[0] para el caso de que la matriz no sea cuadrada
+                asientos[f][a] = 'O';
             }
         }
+
+
+
         //Creamos un bucle con centinela para controlar el final de la compra
         boolean centinela = false;
 
