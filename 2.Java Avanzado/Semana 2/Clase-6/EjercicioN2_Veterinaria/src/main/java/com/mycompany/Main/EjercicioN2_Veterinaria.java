@@ -26,8 +26,6 @@
  */
 package com.mycompany.Main;
 
-import com.mycompany.Main.logic.Mascota;
-import com.mycompany.Main.logic.RegistroMascotas;
 import java.util.Collections;
 import java.util.Scanner;
 

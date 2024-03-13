@@ -1,10 +1,10 @@
-package com.mycompany.Main.logic;
+package com.mycompany.Main;
 
 public class Mascota<T> {
     //Atributos
     private Integer id;  
     private String nombre;
-    private String especie;
+    private T especie;
     private Integer edad;
     
     //Constructores
@@ -12,7 +12,7 @@ public class Mascota<T> {
     public Mascota() {
     }
 
-    public Mascota(Integer id, String nombre, String especie, Integer edad) {
+    public Mascota(Integer id, String nombre, T especie, Integer edad) {
         this.id = id;
         this.nombre = nombre;
         this.especie = especie;
@@ -37,11 +37,11 @@ public class Mascota<T> {
         this.nombre = nombre;
     }
 
-    public String getEspecie() {
+    public T getEspecie() {
         return especie;
     }
 
-    public void setEspecie(String especie) {
+    public void setEspecie(T especie) {
         this.especie = especie;
     }
 

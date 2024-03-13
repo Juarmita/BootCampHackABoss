@@ -1,5 +1,6 @@
-package com.mycompany.Main.logic;
+package com.mycompany.Main;
 
+import com.mycompany.Main.Mascota;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
@@ -43,7 +44,7 @@ public class RegistroMascotas<T extends Mascota> {
     public void buscarPorEspecie(String especieMascota) {
         List<Mascota<?>> mascotaEncontrada = new ArrayList<>();
         for (T mascota : mascotas) {
-            if (mascota.getEspecie().equalsIgnoreCase(especieMascota)) {
+            if (mascota.getEspecie().equals(especieMascota)) {
                 mascotaEncontrada.add(mascota);
             }
         }
@@ -72,7 +73,7 @@ public class RegistroMascotas<T extends Mascota> {
         for (int i = 0; i < cantidad; i++) {
             String nombreAleatorio = nombresRandom[random.nextInt(nombresRandom.length)];//eleccion de nombre aleatorio
             int edadAleatoria = random.nextInt(18)+1; //Edad aleatoria entre 1 y 18
-            int idAleatorio = random.nextInt();
+            int idAleatorio = random.nextInt(11)+6;
             String especieAleatoria = especieRandom[random.nextInt(especieRandom.length)];//Eleccion de la especie aleatoria
             agregarMascotas((T)new Mascota<>(idAleatorio,nombreAleatorio,especieAleatoria,edadAleatoria));
         }
