@@ -33,9 +33,13 @@ public class Main {
         
         //Uso del metodo join para que haya orden
         //Lo dejo comentado porque no sé si hay que usarlo en el ejercicio pero para que se vea que se puede usar
-        agente1.join();
-        agente2.join();
-        agente3.join();
-        agente4.join();
+        try {
+            agente1.join();
+            agente2.join();
+            agente3.join();
+            agente4.join();
+        } catch (Exception e) {
+            System.out.println(e);
+        }
     }
 }

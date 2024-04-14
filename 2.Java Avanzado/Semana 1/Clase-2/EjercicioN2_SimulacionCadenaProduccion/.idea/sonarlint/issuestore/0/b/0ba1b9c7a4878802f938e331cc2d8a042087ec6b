@@ -1,0 +1,22 @@
+
+
+java:S1854"9Remove this useless assignment to local variable "hilo3".(Ğ¢ıÿÿÿÿ8³…äöí1J$a3fa6010-da80-44e0-a276-23b6e8e557bd
+|
+java:S1854"9Remove this useless assignment to local variable "hilo2".(áÎ«¯8³…äöí1J$4e24988f-afc5-4ae3-a89c-047079ade46b
+
+java:S1854"9Remove this useless assignment to local variable "hilo1".(ÿÌÉ’øÿÿÿÿ8³…äöí1J$5789a2f5-a64e-479b-bdc9-d8201dfb55c7
+Š
+java:S2438"BReplace "trabajador1" of type Thread with an instance of Runnable.(ÿÌÉ’øÿÿÿÿ8§½ìöí1J$cb5b8f6e-1146-4ef2-b4e6-f5d53fa1c086
+r
+java:S1481"*Remove this unused "hilo1" local variable.(ÿÌÉ’øÿÿÿÿ8¸…äöí1J$cc06726a-51ea-4229-a67b-c94a7b12f370
+…
+java:S2438"BReplace "trabajador2" of type Thread with an instance of Runnable.(áÎ«¯8¨½ìöí1J$b1aa1480-29d7-455e-a217-95ed77fa9d4a
+m
+java:S1481"*Remove this unused "hilo2" local variable.(áÎ«¯8¸…äöí1J$69ea29bd-3bf1-4c38-acf5-41997d9bd332
+Š
+java:S2438"BReplace "trabajador3" of type Thread with an instance of Runnable.(Ğ¢ıÿÿÿÿ8©½ìöí1J$61d172bf-5382-4d75-a88d-f0c5d9ed64a7
+r
+java:S1481"*Remove this unused "hilo3" local variable.(Ğ¢ıÿÿÿÿ8¹…äöí1J$c99406c9-d1ef-499d-a4f8-b693d7906b89
+¡
+java:S21423"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ûÛöí1J$55b32a81-fed0-4a0e-bde0-24db706a7ff2
+r	java:S1067"+Replace this use of System.out by a logger.(—¬¬³úÿÿÿÿ8€Ûöí1J$e61160a6-4ae7-4d9b-be61-cc6ca41fbb44
