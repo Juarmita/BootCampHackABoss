@@ -1,11 +1,11 @@
 
 ‡
-java:S1854;"?Remove this useless assignment to local variable "fechaActual".(Ü—ç”şÿÿÿÿ8’«íğî1J$a90e3b1d-cf95-4a96-bae1-450a27a59fe5
+java:S1854;"?Remove this useless assignment to local variable "fechaActual".(Ü—ç”şÿÿÿÿ8’«íğî1J$df3767c9-0656-4438-bbeb-d9dfd615ba0d
 •
-java:S6204/"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8•«íğî1J$e6ce804b-7269-4dd0-afce-d90f0f26b83d
-m	java:S1061"+Replace this use of System.out by a logger.(‹¡–Ï8˜«íğî1J$d565b9bd-8ac1-4ac9-9ee1-6892614187d9
-r	java:S1067"+Replace this use of System.out by a logger.(½ ©¼şÿÿÿÿ8™«íğî1J$d136c07c-3d51-4351-a8cd-63307d5fe222
-r	java:S1069"+Replace this use of System.out by a logger.(À±øÿÿÿÿÿ8™«íğî1J$9efe4c7e-fb89-4564-b2bc-a4cdac6dfd3e
+java:S6204/"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8•«íğî1J$4d2e160a-1a31-46d7-9932-ece49b23c9da
+m	java:S1061"+Replace this use of System.out by a logger.(‹¡–Ï8˜«íğî1J$3935fb06-a5ed-493d-b22d-62cceacefa47
+r	java:S1067"+Replace this use of System.out by a logger.(½ ©¼şÿÿÿÿ8™«íğî1J$456a3f2b-e23b-413d-9554-1520e0a6955b
+r	java:S1069"+Replace this use of System.out by a logger.(À±øÿÿÿÿÿ8™«íğî1J$b7dbc5df-0fc3-49bf-9ae8-2f6e9be2bc80
 x
-java:S1481;"0Remove this unused "fechaActual" local variable.(Ü—ç”şÿÿÿÿ8š«íğî1J$7f0d1b35-3afa-4d8e-ba11-fa99c4ccf30a
-m	java:S106A"+Replace this use of System.out by a logger.(Šå³Ö8«íğî1J$da4316a0-bd74-4a4a-b554-2d108a52ee68
+java:S1481;"0Remove this unused "fechaActual" local variable.(Ü—ç”şÿÿÿÿ8š«íğî1J$ed9ac246-f199-4f9d-a828-7131d33c572a
+m	java:S106A"+Replace this use of System.out by a logger.(Šå³Ö8«íğî1J$977d0931-b800-45a9-9a84-7675fad4a733

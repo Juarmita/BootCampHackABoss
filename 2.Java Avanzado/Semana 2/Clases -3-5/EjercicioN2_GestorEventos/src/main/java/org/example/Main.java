@@ -60,7 +60,7 @@ public class Main {
 
         Optional<Evento> eventoProximo = listaEventos.stream()//Usamos el optional para comprobar cual es el evento mas cercano
                 .min((evento1, evento2) ->//Declaramos evento1 y 2 para compararlos como parametros en la funcion lambda
-                        LocalDate.parse(evento1.getFecha()).compareTo(LocalDate.parse(evento2.getFecha())));
+                        LocalDate.parse(evento1.getFecha()).compareTo(LocalDate.parse(evento2.getFecha())));//Comparamos las fechas de los eventos
 
         eventoProximo.ifPresent(evento -> System.out.println("\nEl evento más próximo es: " + evento.getNombre()));
     }
